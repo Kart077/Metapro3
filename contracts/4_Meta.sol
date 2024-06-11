@@ -19,8 +19,8 @@ contract MyToken {
 
     // public variables here
 
-    string public token_name = "META";
-    string public tokenAbbre = "MTA";
+    string public token_name = "Kart_token";
+    string public tokenAbbre = "KT";
     uint public TotalSupply = 0;
 
     // mapping variable here
